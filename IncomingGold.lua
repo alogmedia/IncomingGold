@@ -1,7 +1,6 @@
 -- IncomingGold.lua
 -- This addon calculates and displays the total incoming gold from sold auctions,
 -- tracks daily income using SavedVariables, and provides an on-screen UI
--- overview of Daily, Weekly, and Monthly income via a minimap icon or slash command.
 
 local DEBUG = false
 
