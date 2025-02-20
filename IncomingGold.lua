@@ -2,6 +2,7 @@
 -- This addon calculates and displays the total incoming gold from sold auctions,
 -- tracks daily income using SavedVariables, and provides an on-screen UI.
 -- Updated for Cataclysm 4.4.2 / 40402 Auction House API
+-- Better design
 
 local DEBUG = false
 
